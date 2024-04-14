@@ -20,7 +20,7 @@ requestAnimationFrame(raf);
 var tl = gsap.timeline({
   scrollTrigger: {
     trigger: "#main",
-    markers: true,
+//    markers: true,
     start: "30% 30%",
     end: "100% 50%",
     scrub: 1,
